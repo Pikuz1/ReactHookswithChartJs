@@ -1,0 +1,9 @@
+.tab_bar_content{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.tab--open{
+    display: flex;
+    flex-direction: row;
+}

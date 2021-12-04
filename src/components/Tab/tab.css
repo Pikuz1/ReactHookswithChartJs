@@ -1,0 +1,37 @@
+.tab {
+    align-items: top;
+    width: 100%;
+    background-color: rgb(223, 241, 241);
+    padding: 10px;
+  }
+  .tab_content {
+    padding: 5px 5px 5px;
+    height: 20px;
+    width: 40px;
+    cursor: pointer;
+    font-weight: 500;
+    border: 2px solid black;
+    overflow: hidden;
+  
+    background-color: grey;
+    border-radius: 10px;
+  
+    color: black;
+    font-size: 15px;
+  }
+
+  .tab--add_button{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+
+  .tab--chart_add_button{
+    cursor: pointer;
+    width:25px;
+    height: 25px;
+  }
+
+  .tab--chart{
+    margin-top: 10px;
+  }
